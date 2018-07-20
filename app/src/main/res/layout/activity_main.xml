@@ -7,6 +7,6 @@
         android:id="@+id/textView"
         android:layout_width="match_parent"
         android:layout_height="279dp"
-        android:text="Hello World"
+        android:text="Hello World update 1."
         android:textAlignment="center" />
 </LinearLayout>
